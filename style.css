@@ -1,0 +1,39 @@
+.tituloCadastro {
+    width: 400px;
+    height: 20px;
+    margin-top: 30px;
+}
+.botaoDeCadastro {                
+    background-color: blueviolet;
+    color: white;                
+    border: none;                
+}
+.botaoDeCadastro:hover {
+    background-color: rgb(93, 29, 152);
+}
+
+.listaDeTarefas {
+    margin-top: 20px; 
+}
+
+.tituloLista {
+    width: 380px;
+    height: 20px;
+    margin-top: 10px;
+}
+.botaoLista {
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+}
+.botaoLista:hover {
+    background-color: rgb(178, 0, 0);
+    color: white;
+}
+
+.botao {
+    width: 25px;
+    height: 25px;
+    border-radius: 4px;
+    cursor: pointer;
+}
